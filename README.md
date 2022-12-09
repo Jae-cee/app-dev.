@@ -1,11 +1,15 @@
 # app-dev.
+
 My First Repository - Jomary P. Cordero
+
 Twenty-Five Twenty-one
+
 Twenty-Five Twenty-One (Korean: 스물다섯 스물하나) is a 2022 South Korean television series directed by Jung Ji-hyun and starring Kim Tae-ri, Nam Joo-hyuk, Bona, Choi Hyun-wook and Lee Joo-myung. The series depicts the romantic lives of five characters spanning from the year of 1998 to 2021.[2] It premiered on tvN on February 12, 2022, and aired every Saturday and Sunday at 21:10 (KST) for 16 episodes.[3] It is available for streaming on Netflix.[4][5]
 
 The series was a commercial hit and became one of the highest-rated dramas in Korean cable television history.[6]
 
 PLOT
+
 "Twenty-Five, Twenty-One" tells a love story between Na Hee-Do (Kim Tae-Ri) and Back Yi-Jin (Nam Joo-Hyuk).
 
 Na Hee-Do is a member of her high school fencing team. Due to the South Korean financial crisis, the high school fencing team gets disbanded. Getting through all the difficulties, she becomes a member of the sabre fencing national team.
@@ -13,6 +17,7 @@ Na Hee-Do is a member of her high school fencing team. Due to the South Korean f
 The South Korean financial crisis also causes Back Yi-Jin’s father's business to go bankrupt. This leads to a life change for Back Yi-Jin, from living the life of a wealthy person to a poor person. While studying, he works part-time jobs like delivery newspapers. Later, he becomes a sports reporter for a broadcasting network.
 
 CAST AND CHARACTERS
+
 Main
 Kim Tae-ri as Na Hee-do (나희도)
 Kim So-hyun as adult Na Hee-do[7]
